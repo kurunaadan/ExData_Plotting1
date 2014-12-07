@@ -1,3 +1,5 @@
+## I have removed the original figures and inserted mine 
+## at appropriate places in this file
 ## Introduction
 
 This assignment uses data from
